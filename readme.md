@@ -9,6 +9,7 @@ Cɪʙᴇʀsᴇɢᴜʀɪᴅᴀᴅ ᴇɴ Eɴᴛᴏʀɴᴏs ᴅᴇ ʟᴀs Tᴇᴄɴ
 </h2> 
 
 ## Tema 1
+* #### [Práctica 1 - Borrado seguro y recuperación en Windows](lesson-1/practice-1/readme.md)
 * #### [Práctica 2 - Autopsy](lesson-1/practice-2/readme.md)
 * #### [Práctica 3 - Recolección elementos volátiles - Redline](lesson-1/practice-3/readme.md)
 
