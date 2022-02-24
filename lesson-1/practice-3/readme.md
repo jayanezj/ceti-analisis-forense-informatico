@@ -21,8 +21,15 @@
 * [OVA TeraBox Parte 1/2](https://terabox.com/s/1c8Xf5v4ZFA3dmUmqO9l7mQ)
 * [OVA TeraBox Parte 2/2](https://terabox.com/s/1h7-VO4aeFImn55LYakfNhw)
 
-### Video 🎥
-[![Youtube](https://img.youtube.com/vi/fkjLhod7qM0/0.jpg)](https://youtu.be/fkjLhod7qM0)
+## Video 🎥
+<div align="center">
+  <a href="https://odysee.com/@jayanez:e/ceti-elementos-volatiles-redline:1"><img src="https://thumbs.odycdn.com/c4661fb57e073d7ac889c98b3d669daf.jpg" alt="Video en Odysee"></a>
+</div>
+
+* [Odysee](https://odysee.com/@jayanez:e/ceti-elementos-volatiles-redline:1)
+* [Youtube](https://youtu.be/fkjLhod7qM0)
+* [Beertube](https://beertube.epgn.ch/w/uxHbJ2AYf4iXVn7bW9pnHy)
+* [HardLimit](https://video.hardlimit.com/w/gGS2Qh7XhTYxdGfEf9m3u8)
 
 ## Resultados de la extracción manual
 * [📒 Start timestamp](logs/001-start-date.log)
