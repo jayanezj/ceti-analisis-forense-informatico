@@ -12,6 +12,7 @@ Cɪʙᴇʀsᴇɢᴜʀɪᴅᴀᴅ ᴇɴ Eɴᴛᴏʀɴᴏs ᴅᴇ ʟᴀs Tᴇᴄɴ
 * #### [Práctica 1 - Borrado seguro y recuperación en Windows](lesson-1/practice-1/readme.md)
 * #### [Práctica 2 - Autopsy](lesson-1/practice-2/readme.md)
 * #### [Práctica 3 - Recolección elementos volátiles - Redline](lesson-1/practice-3/readme.md)
+* #### [Práctica 4 - Recolección elementos volátiles - WinTriage](lesson-1/practice-4/readme.md)
 
 ## License ©️
 © 2022 [codigojose.com](https://codigojose.com)
